@@ -1,0 +1,10 @@
+{
+  "author": "Mozilla",
+  "name": "gaia-profile-builder",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Standalone profile builder for Mozilla Gaia",
+  "dependencies": {
+    "mozilla-download": ""
+  }
+}
