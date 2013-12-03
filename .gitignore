@@ -1,3 +1,6 @@
 xulrunner*
 build
 node_modules
+apps
+shared
+locales
