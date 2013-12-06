@@ -1,8 +1,8 @@
 (function() {
-  var fs = require('fs')
-  var detectos = require('./detectos');
-  var _path = require('path')
-  var Configure = require('./node_modules/gaia-config-builder/builder.js');
+  var fs = require('fs'),
+      detectos = require('./detectos'),
+      _path = require('path'),
+      Configure = require('gaia-config-builder');
 
   /**
    * Resolver with '~' ability.

@@ -4,7 +4,9 @@
   "private": true,
   "version": "0.0.1",
   "description": "Standalone profile builder for Mozilla Gaia",
+  "main": "./run.js",
   "dependencies": {
-    "mozilla-download": ""
+    "mozilla-download": "",
+    "gaia-config-builder": ""
   }
 }
