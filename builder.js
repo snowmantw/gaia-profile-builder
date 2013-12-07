@@ -2,7 +2,7 @@
   var fs = require('fs'),
       detectos = require('./detectos'),
       _path = require('path'),
-      Configure = require('gaia-config-builder');
+      Configure = require('gaia-config');
 
   /**
    * Resolver with '~' ability.
